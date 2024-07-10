@@ -32,7 +32,7 @@ const Hero = () => {
             <Button className="font-semibold ">Start Building</Button>
             <Button
               variant={"outline"}
-              className="font-semibold hover:bg-gray-400/70"
+              className="font-semibold hover:bg-gray-100/10"
             >
               Start Parsing
             </Button>
